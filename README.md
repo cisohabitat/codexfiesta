@@ -18,6 +18,12 @@ A Next.js app (Vercel-ready) that aggregates key AI RSS feeds and prioritizes Ch
 - Google DeepMind Blog
 - The Batch (DeepLearning.AI)
 - MIT AI News
+- TechCrunch AI
+- VentureBeat AI
+- The Verge AI
+- Wired AI
+- Meta AI Blog
+- Microsoft AI Blog
 
 ## Local development
 
